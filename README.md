@@ -40,7 +40,8 @@ This is optional, and serves as additional proof points. We will consider it com
 Write appropriate tests with an appropriate coverage report.
 
 ## Deployment
-It'd be great if you can deploy this on the free tier of any cloud hosting platform (eg. free dyno on Heroku), so that we can easily access the application via an url.
+### heroku
+https://fierce-shelf-22652.herokuapp.com/bsname_bookname_bookprice_username/list/0/
 
 # About Response
 * Fork this repository to your github account.
