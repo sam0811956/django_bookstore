@@ -1,3 +1,7 @@
+# Deploy
+heroku:https://django-bookstore-api.herokuapp.com/
+
+doc: https://django-bookstore-api.herokuapp.com/doc/
 # Book Storm
 You are building a backend service and a database for a book store platform, with the following 2 raw datasets:
 
@@ -40,6 +44,7 @@ This is optional, and serves as additional proof points. We will consider it com
 Write appropriate tests with an appropriate coverage report.
 
 ## Deployment
+
 It'd be great if you can deploy this on the free tier of any cloud hosting platform (eg. free dyno on Heroku), so that we can easily access the application via an url.
 
 # About Response
